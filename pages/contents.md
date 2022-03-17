@@ -1,3 +1,4 @@
-- # 快捷通道
+- # 快捷方式
 - [:a {:href "#/all-journals"} "所有日记"]
 - [[关于我]]
+- [:a {:href "https://www.ganymedenil.com"} "我的博客"]
