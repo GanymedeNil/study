@@ -1,1 +1,1 @@
--
+- [:a {:href "#/all-journals"} "所有日记"]
