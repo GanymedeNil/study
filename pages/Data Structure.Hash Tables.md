@@ -11,5 +11,6 @@ alias:: 数据结构/哈希表
 - **哈希冲突**
 	- Separate Chaining(链地址)
 	- Open Addressing(开放定址)
-	- Double Hashing
+	- Re-hashing
+	- Establish a public overflow area
 	-
