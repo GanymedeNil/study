@@ -1,7 +1,5 @@
 - # 日志
-- {{:title "task"
-- :query ["]
-- }}
+- {{:title "TODO" :query [:find (pull ?b [*]) :where [?b :block/marker ?marker] [(= "TODO" ?marker)]]}}
 -
 -
 -
