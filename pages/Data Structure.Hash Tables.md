@@ -8,3 +8,4 @@ alias:: 数据结构/哈希表
 	- search
 	- insert
 	- delete
+- ****
