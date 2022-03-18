@@ -8,9 +8,10 @@ alias:: 数据结构/哈希表
 	- search
 	- insert
 	- delete
-- **哈希冲突**
+- **解决哈希冲突**
 	- Separate Chaining(链地址)
 	- Open Addressing(开放定址)
 	- Re-hashing(再哈希)
 	- Establish a public overflow area(建立公共溢出区)
+	-
 	-
