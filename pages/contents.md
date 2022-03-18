@@ -1,7 +1,9 @@
 - # 日志
 - #+BEGIN_QUERY
   query-table:: true
-- {:title }
+- {:title "日记"
+- :query [:find (pull ?h [*])]
+- }
 - #+END_QUERY
 - #
 - # 快捷方式
