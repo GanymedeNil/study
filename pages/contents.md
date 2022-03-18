@@ -1,5 +1,5 @@
 - # 日志
-- {{query (and [[journal-day]])}}
+- {{query (and /block/journal-day)}}
   query-table:: false
   query-properties:: [:block]
 -
