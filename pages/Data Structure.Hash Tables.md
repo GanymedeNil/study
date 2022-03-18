@@ -15,4 +15,5 @@ alias:: 数据结构/哈希表
 	- Open Addressing(开放定址)
 	  https://www.geeksforgeeks.org/hashing-set-3-open-addressing/
 	- Re-hashing(再哈希)
+	  https://www.geeksforgeeks.org/load-factor-and-rehashing/
 	- Establish a public overflow area(建立公共溢出区)
