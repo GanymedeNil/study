@@ -1,3 +1,4 @@
+title:: Data Structure/Array
 alias:: 数组
 
 - Type

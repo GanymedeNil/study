@@ -1,3 +1,4 @@
+title:: Data Structure/Linked List
 alias:: 链表
 
 - 类型
