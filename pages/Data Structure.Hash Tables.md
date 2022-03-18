@@ -9,9 +9,8 @@ alias:: 数据结构/哈希表
 	- insert
 	- delete
 - **解决哈希冲突**
+  https://programmerah.com/hash-conflict-and-four-solutions-15712/
 	- Separate Chaining(链地址)
 	- Open Addressing(开放定址)
 	- Re-hashing(再哈希)
 	- Establish a public overflow area(建立公共溢出区)
-	-
-	-
