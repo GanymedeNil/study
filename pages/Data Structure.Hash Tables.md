@@ -17,3 +17,4 @@ alias:: 数据结构/哈希表
 	- Re-hashing(再哈希)
 	  https://www.geeksforgeeks.org/load-factor-and-rehashing/
 	- Establish a public overflow area(建立公共溢出区)
+	  https://en.wikipedia.org/wiki/Cuckoo_hashing
