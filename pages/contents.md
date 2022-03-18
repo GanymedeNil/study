@@ -2,7 +2,7 @@
 - query-table:: false
   #+BEGIN_QUERY
   {:title "Blocks in 7ds with a page reference of datalog"
-   :query [:find (pull ?b [*])
+   :query [:find (pull ?d[*])
          :in $ ?start ?today
          :where
          [?b :page/journal-day ?d]
