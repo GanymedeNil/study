@@ -1,6 +1,7 @@
 - **原则**
 	- 先进先出
 - **操作**
-	- enQueue
-	-
-	- peek / top
+	- Enque
+	- Deque
+	- Front
+	- Rear
