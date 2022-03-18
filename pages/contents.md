@@ -1,5 +1,6 @@
 - # 日志
 - query-table:: false
+  query-properties:: [:block]
   #+BEGIN_QUERY
   {:title "Blocks in 7ds with a page reference of datalog"
    :query [:find (pull ?b[*])
