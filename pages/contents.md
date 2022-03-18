@@ -1,9 +1,9 @@
 - # 日志
 - #+BEGIN_QUERY
   {:title "week day"
-  :query [:find ?name
+  :query [:find ?p ?title
   :where
-  [?b :block/journal-day ?m]]}
+  [?p :block/journal-day ?m]]}
   #+END_QUERY
 -
 -
