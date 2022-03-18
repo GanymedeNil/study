@@ -1,4 +1,11 @@
 - # 日志
+- {{:title "All tasks"
+- :query [:find(pull ?b [*])
+	- :where
+		-
+- ]
+- }}
+-
 -
 - # 快捷方式
 - [:a {:href "#/all-journals"} "所有日记"]
