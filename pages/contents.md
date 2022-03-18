@@ -1,7 +1,10 @@
 - # 日志
 - #+BEGIN_QUERY
   {:title "week day"
-  :query [:find (pull ?b [*])]
+  :query [:find (pull ?b [*])
+  :where
+  [?b :block/journals]
+  ]
   }
   #+END_QUERY
 -
