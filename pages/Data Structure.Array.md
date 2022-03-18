@@ -1,5 +1,5 @@
 title:: Data Structure/Array
-alias:: 数组
+alias:: 数据结构/数组
 
 - Type
 	- Static:

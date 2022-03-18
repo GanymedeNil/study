@@ -1,5 +1,5 @@
 title:: Data Structure/Linked List
-alias:: 链表
+alias:: 数据结构/链表
 
 - 类型
 	- 单向链表 [[单向链表代码]] 
