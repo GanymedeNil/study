@@ -1,6 +1,6 @@
 - 原则
 	- 后进先出
--
+- 操作
 - pop
-- peek
+- peek / top
 - push
