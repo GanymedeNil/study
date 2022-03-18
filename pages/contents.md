@@ -1,6 +1,7 @@
 - # 日志
-- {{:title "TODO" :query [:find (pull ?b [*]) :where [?b :block/marker ?marker] [(= "TODO" ?marker)]]}}
--
+- #+BEGIN_QUERY
+  
+  #+END_QUERY
 -
 -
 -
