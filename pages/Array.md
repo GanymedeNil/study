@@ -1,3 +1,4 @@
+- {{embed [[]]}
 - Type
 	- Static:
 	  Fixed number of memory slots
