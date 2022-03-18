@@ -8,4 +8,6 @@ alias:: 数据结构/哈希表
 	- search
 	- insert
 	- delete
-- ****
+- **哈希冲突**
+	- 开放寻址
+	-
