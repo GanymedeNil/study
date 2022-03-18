@@ -5,7 +5,7 @@
    :query [:find (pull ?b [*])
          :in $ ?start ?today
          :where
-         [?b :page/journal-day ?title ?d]
+         [?b :page/journal-day ?d]
          [(>= ?d ?start)]
          [(<= ?d ?today)]]
    :inputs [:7d-before :today]}
