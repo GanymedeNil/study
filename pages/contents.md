@@ -1,6 +1,8 @@
 - # 日志
 - #+BEGIN_QUERY
-  
+  {:title "week day"
+  :query [:find (pull ?b [*])]
+  }
   #+END_QUERY
 -
 -
