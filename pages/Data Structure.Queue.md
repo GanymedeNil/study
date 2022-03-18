@@ -1,6 +1,6 @@
 - **原则**
 	- 先进先出
 - **操作**
-	- pop
+	- dequre
 	- peek / top
-	- push
+	- enqure
