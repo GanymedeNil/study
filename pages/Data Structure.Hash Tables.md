@@ -9,6 +9,6 @@ alias:: 数据结构/哈希表
 	- insert
 	- delete
 - **哈希冲突**
-	- Separate Chaining()
-	- Open Addressing
+	- Separate Chaining(链地址)
+	- Open Addressing(开放定址)
 	-
