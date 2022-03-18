@@ -1,9 +1,15 @@
 - # 日志
 - #+BEGIN_QUERY
-  {:title "week day"
-  :query [:find ?title
-  :where
-  [_ :block/journal-day]]}
+  {:title "Blocks in 7ds with a page reference of datalog"
+   :query [:find (pull ?b [*])
+         :in $ ?start ?today ?tag
+         :where
+         [?b :page/journal-day ?d]
+         [(>= ?d ?start)]
+         [(<= ?d ?today)]
+         [?b :block/ref-pages ?rp]
+         [?rp :block/name ?tag]]
+   :inputs [:7d-before :today "datalog"]}
   #+END_QUERY
 -
 -
