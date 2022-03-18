@@ -11,6 +11,8 @@ alias:: 数据结构/哈希表
 - **解决哈希冲突**
   https://programmerah.com/hash-conflict-and-four-solutions-15712/
 	- Separate Chaining(链地址)
+	  https://www.geeksforgeeks.org/hashing-set-2-separate-chaining/
 	- Open Addressing(开放定址)
+	  https://www.geeksforgeeks.org/hashing-set-3-open-addressing/
 	- Re-hashing(再哈希)
 	- Establish a public overflow area(建立公共溢出区)
