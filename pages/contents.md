@@ -1,10 +1,11 @@
 - # 日志
+- #+END_QUERY
+- #+END_QUERY
 - {{:title "All tasks"
 - :query [:find(pull ?b [*])
 	- :where
-		-
-- ]
-- }}
+	- [?b :block/marker ?m]
+	- [(not= ?m "nil")]]}}
 -
 -
 - # 快捷方式
