@@ -1,3 +1,5 @@
+alias:: 数组
+
 - Type
 	- Static:
 	  Fixed number of memory slots
