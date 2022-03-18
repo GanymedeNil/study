@@ -3,7 +3,7 @@
   {:title "week day"
   :query [:find (pull ?b [*])
   :where
-  [?b :block/journals ?m]
+  [?b :block/journal-day ?m]
   [(not=?m "nil")]]}
   #+END_QUERY
 -
