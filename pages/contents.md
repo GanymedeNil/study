@@ -1,6 +1,6 @@
 - # 目录
 - [[所有书籍]]
-- [[编程技术]]
+- [[软件开发]]
 - [:a {:href "#/all-journals"} "所有日记"]
 - [:a {:href "https://www.ganymedenil.com"} "我的博客"]
 - [[关于我]]
