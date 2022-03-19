@@ -1,7 +1,8 @@
 - # 知识
 - [[数据结构]]
 -
-- # 快捷方式
+- # 目录
+- [[书籍]]
 - [:a {:href "#/all-journals"} "所有日记"]
 - [:a {:href "https://www.ganymedenil.com"} "我的博客"]
 - [[关于我]]
