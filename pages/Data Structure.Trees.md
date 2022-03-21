@@ -3,7 +3,6 @@ alias:: 数据结构/树
 
 - ![image.png](../assets/image_1647662513742_0.png)
 - **基本属性**
-  collapsed:: true
 	- Node
 	  构成树的基本单位
 	- Root
@@ -24,7 +23,7 @@ alias:: 数据结构/树
 	- SubTree
 	- (4,6,7)，(5,8,9)
 	- Levels
-	  级别为深度加1。**它从1开始，所以根的 Level 为 1**
+	  层级为深度加1。**它从1开始，所以根的 Level 为 1**
 	  ![image.png](../assets/image_1647663795851_0.png)
 	- Depth
 	  节点的深度是从节点到根节点的边数。**根的深度为0**
@@ -35,8 +34,13 @@ alias:: 数据结构/树
 	  上图中是 A-E 路径的边数，即高度为3
 - **树的类型**
 	- [[Data Structure/Trees/Binary Tree]]
+	- [[Data Structure/Trees/Binary Search Tree]]
+	- [[Data Structure/Trees/Heaps]]
 -
 -
 -
 - # 参考
 - 1. http://typeocaml.com/2014/11/26/height-depth-and-level-of-a-tree/
+  2. https://visualgo.net/zh (可视化数据结构与算法)
+  3. https://www.cs.usfca.edu/~galles/visualization/RedBlack.html （可视化红黑树）
+-
