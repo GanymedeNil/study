@@ -36,6 +36,7 @@ alias:: 数据结构/树
 	- [[Data Structure/Trees/Binary Tree]]
 	- [[Data Structure/Trees/Binary Search Tree]]
 	- [[Data Structure/Trees/Heaps]]
+	- [[Data Structure/Trees/Trie]]
 -
 -
 -
