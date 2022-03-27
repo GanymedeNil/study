@@ -10,18 +10,60 @@
  {:block/name "2022-03-20",
   :block/created-at 1647705766104,
   :block/updated-at 1647783311263}
+ {:block/name "2022-03-21",
+  :block/created-at 1647868439533,
+  :block/updated-at 1647868479968}
+ {:block/name "2022-03-22",
+  :block/created-at 1647878928141,
+  :block/updated-at 1647957487382}
+ {:block/name "2022-03-23",
+  :block/created-at 1647964801233,
+  :block/updated-at 1647964801233}
+ {:block/name "2022-03-24",
+  :block/created-at 1648051203926,
+  :block/updated-at 1648051203926}
+ {:block/name "2022-03-25",
+  :block/created-at 1648137600355,
+  :block/updated-at 1648202691377}
+ {:block/name "2022-03-26",
+  :block/created-at 1648224195341,
+  :block/updated-at 1648224195341}
+ {:block/name "2022-03-27",
+  :block/created-at 1648310527095,
+  :block/updated-at 1648397563713}
+ {:block/name "2022-03-28",
+  :block/created-at 1648396803509,
+  :block/updated-at 1648396803509}
  {:block/name "a",
   :block/created-at 1643512820274,
   :block/updated-at 1643512820274}
  {:block/name "a pattern language",
   :block/created-at 1647689519563,
   :block/updated-at 1647693150505}
+ {:block/name "algorithms",
+  :block/created-at 1647923390280,
+  :block/updated-at 1647923390280}
+ {:block/name "algorithms/binary search",
+  :block/created-at 1647954934569,
+  :block/updated-at 1647956590935}
+ {:block/name "algorithms/linear search",
+  :block/created-at 1647946065435,
+  :block/updated-at 1647954865548}
+ {:block/name "algorithms/sorting",
+  :block/created-at 1647956765885,
+  :block/updated-at 1648202739924}
+ {:block/name "algorithms/tree traversal",
+  :block/created-at 1648366292317,
+  :block/updated-at 1648367781780}
  {:block/name "array",
   :block/created-at 1647491327894,
   :block/updated-at 1647506507524}
  {:block/name "b",
   :block/created-at 1643512820275,
   :block/updated-at 1643512820275}
+ {:block/name "bubble sort",
+  :block/created-at 1648195456287,
+  :block/updated-at 1648197200788}
  {:block/name "c",
   :block/created-at 1643512820275,
   :block/updated-at 1643512820275}
@@ -37,6 +79,9 @@
  {:block/name "data structure/array",
   :block/created-at 1647660686241,
   :block/updated-at 1647660686241}
+ {:block/name "data structure/graphs",
+  :block/created-at 1647922114878,
+  :block/updated-at 1647923110370}
  {:block/name "data structure/hash tables",
   :block/created-at 1647660686374,
   :block/updated-at 1647660686374}
@@ -45,19 +90,25 @@
   :block/updated-at 1647660686476}
  {:block/name "data structure/queue",
   :block/created-at 1647660686562,
-  :block/updated-at 1647660686562}
+  :block/updated-at 1648396419913}
  {:block/name "data structure/stacks",
   :block/created-at 1647660686651,
   :block/updated-at 1647660686651}
  {:block/name "data structure/trees",
   :block/created-at 1647660686724,
-  :block/updated-at 1647844848785}
+  :block/updated-at 1647920287500}
  {:block/name "data structure/trees/binary search tree",
   :block/created-at 1647843172292,
   :block/updated-at 1647845425899}
  {:block/name "data structure/trees/binary tree",
   :block/created-at 1647662129321,
   :block/updated-at 1647783259960}
+ {:block/name "data structure/trees/heaps",
+  :block/created-at 1647862781114,
+  :block/updated-at 1647864758596}
+ {:block/name "data structure/trees/trie",
+  :block/created-at 1647920287498,
+  :block/updated-at 1647922005659}
  {:block/name "doing",
   :block/created-at 1643512820274,
   :block/updated-at 1643512820274}
@@ -73,18 +124,39 @@
  {:block/name "in-progress",
   :block/created-at 1643512820275,
   :block/updated-at 1643512820275}
+ {:block/name "insertion sort",
+  :block/created-at 1648195500523,
+  :block/updated-at 1648198903233}
  {:block/name "later",
   :block/created-at 1643512820274,
   :block/updated-at 1643512820274}
+ {:block/name "linear search",
+  :block/created-at 1648198059103,
+  :block/updated-at 1648198059103}
  {:block/name "linked list",
   :block/created-at 1647506618274,
   :block/updated-at 1647524005687}
+ {:block/name "merge sort",
+  :block/created-at 1648195503928,
+  :block/updated-at 1648202363989}
  {:block/name "now",
   :block/created-at 1643512820275,
   :block/updated-at 1643512820275}
+ {:block/name "queue 代码",
+  :block/created-at 1648396419913,
+  :block/updated-at 1648397456227}
+ {:block/name "quick sort",
+  :block/created-at 1648195507140,
+  :block/updated-at 1648200856498}
+ {:block/name "selection sort",
+  :block/created-at 1648195497620,
+  :block/updated-at 1648198178624}
  {:block/name "the timeless way of building",
   :block/created-at 1647691978485,
   :block/updated-at 1647692518605}
+ {:block/name "todo",
+  :block/created-at 1648397889679,
+  :block/updated-at 1648397889679}
  {:block/name "wait",
   :block/created-at 1643512820275,
   :block/updated-at 1643512820275}
@@ -94,6 +166,9 @@
  {:block/name "关于我",
   :block/created-at 1647540840238,
   :block/updated-at 1647695947118}
+ {:block/name "冒泡排序",
+  :block/created-at 1648195515172,
+  :block/updated-at 1648195515172}
  {:block/name "单向链表代码",
   :block/created-at 1647523945285,
   :block/updated-at 1647523957784}
@@ -106,18 +181,30 @@
  {:block/name "建筑的永恒之道",
   :block/created-at 1647692026505,
   :block/updated-at 1647692026505}
+ {:block/name "归并排序",
+  :block/created-at 1648199149091,
+  :block/updated-at 1648199149091}
  {:block/name "循环链表代码",
   :block/created-at 1647660686475,
   :block/updated-at 1647660686475}
+ {:block/name "快速排序",
+  :block/created-at 1648199240203,
+  :block/updated-at 1648199240203}
  {:block/name "所有书籍",
   :block/created-at 1647692754607,
   :block/updated-at 1647693962480}
+ {:block/name "插入排序",
+  :block/created-at 1648198310944,
+  :block/updated-at 1648198310944}
  {:block/name "数据结构",
   :block/created-at 1647490813851,
-  :block/updated-at 1647491327894}
+  :block/updated-at 1647922114880}
  {:block/name "数据结构/哈希表",
   :block/created-at 1647660686378,
   :block/updated-at 1647660686378}
+ {:block/name "数据结构/图",
+  :block/created-at 1647922229381,
+  :block/updated-at 1647922229381}
  {:block/name "数据结构/数组",
   :block/created-at 1647660686244,
   :block/updated-at 1647660686244}
@@ -133,18 +220,45 @@
  {:block/name "数据结构/树/二叉树",
   :block/created-at 1647664502379,
   :block/updated-at 1647664502379}
+ {:block/name "数据结构/树/堆",
+  :block/created-at 1647862781125,
+  :block/updated-at 1647862781125}
+ {:block/name "数据结构/树/字典树",
+  :block/created-at 1647920485670,
+  :block/updated-at 1647920485670}
  {:block/name "数据结构/链表",
   :block/created-at 1647660686479,
   :block/updated-at 1647660686479}
  {:block/name "数据结构/队列",
   :block/created-at 1647660686565,
   :block/updated-at 1647660686565}
+ {:block/name "算法",
+  :block/created-at 1647923321942,
+  :block/updated-at 1648366292319}
+ {:block/name "算法/二分查找",
+  :block/created-at 1647955005406,
+  :block/updated-at 1647955005406}
+ {:block/name "算法/排序",
+  :block/created-at 1647956796945,
+  :block/updated-at 1647956796945}
+ {:block/name "算法/树遍历",
+  :block/created-at 1648366332546,
+  :block/updated-at 1648366332546}
+ {:block/name "算法/线性搜索",
+  :block/created-at 1647946107844,
+  :block/updated-at 1647946107844}
  {:block/name "算法分析",
   :block/created-at 1647844275921,
   :block/updated-at 1647845535149}
  {:block/name "软件开发",
   :block/created-at 1647694369870,
-  :block/updated-at 1647844478991}
+  :block/updated-at 1647923321943}
+ {:block/name "选择排序",
+  :block/created-at 1648198139694,
+  :block/updated-at 1648198139694}
+ {:block/name "递归",
+  :block/created-at 1647923576980,
+  :block/updated-at 1647923576980}
  {:block/name "面向对象",
   :block/created-at 1647691783000, 
   :block/updated-at 1647691783000}]
