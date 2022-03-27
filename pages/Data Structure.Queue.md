@@ -9,3 +9,5 @@ alias:: 数据结构/队列
 	- Deque
 	- Front
 	- Rear
+- [[Queue 代码]]
+-
